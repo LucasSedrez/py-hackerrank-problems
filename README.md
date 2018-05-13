@@ -1,2 +1,2 @@
 # Python HackerRank Problems
-Some HackerRank problems solved in python.
+Some HackerRank problems solved with python.
